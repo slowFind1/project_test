@@ -1,0 +1,14 @@
+[35mDEBUG   [0m log_name:base.py:94 点击元素:用户中心
+[35mDEBUG   [0m log_name:base.py:94 点击元素:收货地址
+[35mDEBUG   [0m log_name:base.py:94 点击元素:修改地址
+[35mDEBUG   [0m log_name:base.py:94 点击元素:加入购物车
+[35mDEBUG   [0m log_name:base.py:94 点击元素:加入购物车
+[35mDEBUG   [0m log_name:base.py:94 点击元素:加入购物车
+[35mDEBUG   [0m log_name:base.py:94 点击元素:加入购物车
+[35mDEBUG   [0m log_name:base.py:94 点击元素:加入购物车
+[35mDEBUG   [0m log_name:base.py:94 点击元素:加入购物车
+[35mDEBUG   [0m log_name:base.py:94 点击元素:去结算
+[32mINFO    [0m log_name:sql.py:10 Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3
+[32mINFO    [0m log_name:sql.py:46 Execute sql : select * from df_order_orderinfo
+[35mDEBUG   [0m log_name:sql.py:49 [('2025031316145540', '2025-03-13 16:14:55.772832', 0, 22, '', 40), ('2025031316150640', '2025-03-13 16:15:06.180198', 0, 131, '', 40)]
+[32mINFO    [0m log_name:sql.py:26 Disconnected to database

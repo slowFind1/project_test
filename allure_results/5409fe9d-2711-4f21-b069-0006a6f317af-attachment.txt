@@ -1,0 +1,6 @@
+[35mDEBUG   [0m log_name:base.py:94 点击元素:用户中心
+[35mDEBUG   [0m log_name:base.py:94 点击元素:收货地址
+[35mDEBUG   [0m log_name:base.py:94 点击元素:修改地址
+[35mDEBUG   [0m log_name:base.py:94 点击元素:我的购物车
+[35mDEBUG   [0m log_name:base.py:94 点击元素:去结算
+[32mINFO    [0m log_name:base.py:63 获取到弹窗文本为：订单提交失败

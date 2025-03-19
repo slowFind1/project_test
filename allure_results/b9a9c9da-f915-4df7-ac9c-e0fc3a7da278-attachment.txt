@@ -1,0 +1,5 @@
+[35mDEBUG   [0m log_name:base.py:94 点击元素:加入购物车
+[35mDEBUG   [0m log_name:base.py:94 点击元素:加入购物车
+[35mDEBUG   [0m log_name:base.py:164 牛奶草莓
+12.00元/500g
+库存：293

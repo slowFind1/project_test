@@ -1,0 +1,9 @@
+[INFO][32m[2025-03-13 16:28:37.894]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_019' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:28:37.894]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:28:37.900]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_020' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:28:37.901]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[DEBUG][37m[2025-03-13 16:28:38.497]: 点击：搜索商品，并输入值： base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:28:38.822]: 点击元素:搜索 base.py -> sel_click line:94[0m
+[INFO][32m[2025-03-13 16:28:38.829]: 获取到弹窗文本为：请输入搜索内容 base.py -> alert_text line:63[0m
+[INFO][32m[2025-03-13 16:28:38.835]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_020' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:28:38.835]: execute time-consuming:0.93 second conftest.py -> pytest_runtest_makereport line:101[0m

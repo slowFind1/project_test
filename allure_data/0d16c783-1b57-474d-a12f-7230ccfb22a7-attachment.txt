@@ -1,0 +1,9 @@
+[INFO][32m[2025-03-13 16:27:41.060]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_009' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:27:41.062]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:27:41.068]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_010' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:27:41.068]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[DEBUG][37m[2025-03-13 16:27:41.568]: 点击元素:注册 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:27:44.321]: 点击元素:注册 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:27:44.340]: 密码最少4位，最长20位 base.py -> get_text line:164[0m
+[INFO][32m[2025-03-13 16:27:44.350]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_010' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:27:44.351]: execute time-consuming:3.28 second conftest.py -> pytest_runtest_makereport line:101[0m

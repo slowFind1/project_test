@@ -1,0 +1,3 @@
+[35mDEBUG   [0m log_name:base.py:94 点击元素:注册
+[35mDEBUG   [0m log_name:base.py:94 点击元素:注册
+[35mDEBUG   [0m log_name:base.py:164 密码最少4位，最长20位

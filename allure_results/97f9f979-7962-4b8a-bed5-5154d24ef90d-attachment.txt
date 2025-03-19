@@ -1,0 +1,20 @@
+[INFO][32m[2025-03-13 16:14:46.553]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_013' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:14:46.554]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:14:46.560]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_014' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:14:46.560]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:14:46.561]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10[0m
+[INFO][32m[2025-03-13 16:14:46.561]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:46.564]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:46.565]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:46.566]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:46.566]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:46.566]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:46.566]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:46.567]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:46.567]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:46.569]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:46.581]: Disconnected to database sql.py -> __del__ line:26[0m
+[DEBUG][37m[2025-03-13 16:14:47.993]: 点击元素:去结算 base.py -> sel_click line:94[0m
+[INFO][32m[2025-03-13 16:14:49.325]: 获取到弹窗文本为：请填写正确的收货地址 base.py -> alert_text line:63[0m
+[INFO][32m[2025-03-13 16:14:49.330]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_014' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:14:49.332]: execute time-consuming:2.77 second conftest.py -> pytest_runtest_makereport line:101[0m

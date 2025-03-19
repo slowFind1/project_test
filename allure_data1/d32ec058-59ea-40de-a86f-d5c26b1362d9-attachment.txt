@@ -1,0 +1,38 @@
+[INFO][32m[2025-03-13 16:36:58.913]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_017' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:36:58.913]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:36:58.919]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_018' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:36:58.920]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[DEBUG][37m[2025-03-13 16:36:59.601]: 点击：搜索商品，并输入值：扇贝 base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:37:00.037]: 点击元素:搜索 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:37:00.073]: 扇贝
+￥34.00 500g base.py -> get_text line:164[0m
+[DEBUG][37m[2025-03-13 16:37:00.782]: 点击：搜索商品，并输入值：葡萄 base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:37:01.197]: 点击元素:搜索 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:37:01.229]: 水晶葡萄
+￥20.00 500g base.py -> get_text line:164[0m
+[DEBUG][37m[2025-03-13 16:37:01.944]: 点击：搜索商品，并输入值：刀鱼 base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:37:02.346]: 点击元素:搜索 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:37:02.375]: 濒危刀鱼
+￥100.00 10g base.py -> get_text line:164[0m
+[DEBUG][37m[2025-03-13 16:37:03.108]: 点击：搜索商品，并输入值：草莓 base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:37:03.515]: 点击元素:搜索 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:37:03.547]: 大红草莓
+￥20.00 500g
+牛奶草莓
+￥12.00 500g
+新鲜草莓
+￥20.00 500g base.py -> get_text line:164[0m
+[DEBUG][37m[2025-03-13 16:37:04.274]: 点击：搜索商品，并输入值：香蕉 base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:37:04.680]: 点击元素:搜索 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:37:04.711]: 海南香蕉
+￥100.00 500g
+来自海南的香蕉
+￥89.00 500g
+香蕉大香蕉
+￥16.00 500g base.py -> get_text line:164[0m
+[DEBUG][37m[2025-03-13 16:37:05.426]: 点击：搜索商品，并输入值：基围虾 base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:37:05.834]: 点击元素:搜索 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:37:05.860]: 基围虾
+￥45.00 500g base.py -> get_text line:164[0m
+[INFO][32m[2025-03-13 16:37:05.873]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_018' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:37:05.873]: execute time-consuming:6.95 second conftest.py -> pytest_runtest_makereport line:101[0m

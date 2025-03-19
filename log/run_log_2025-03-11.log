@@ -1,0 +1,10 @@
+[INFO][2025-03-11 15:30:36.401]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-11 15:30:36.402]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-11 15:30:36.411]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-11 15:30:36.412]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-11 15:30:36.412]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-11 15:30:36.413]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-11 15:30:39.239]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-11 15:30:39.239]: Execute sql : select * from df_user_userinfo where uname ="test12345678" sql.py -> execute_sql line:46
+[INFO][2025-03-11 15:30:39.241]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-11 15:30:44.364]: Disconnected to database sql.py -> __del__ line:26

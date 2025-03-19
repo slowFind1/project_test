@@ -1,0 +1,9 @@
+[INFO][32m[2025-03-13 16:36:13.069]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_010' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:36:13.069]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:36:13.076]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_011' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:36:13.076]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[DEBUG][37m[2025-03-13 16:36:13.478]: 点击元素:注册 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:36:16.317]: 点击元素:注册 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:36:16.348]: 你输入的邮箱格式不正确 base.py -> get_text line:164[0m
+[INFO][32m[2025-03-13 16:36:16.359]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_011' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:36:16.360]: execute time-consuming:3.28 second conftest.py -> pytest_runtest_makereport line:101[0m

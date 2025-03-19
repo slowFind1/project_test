@@ -1,0 +1,9 @@
+[INFO][32m[2025-03-13 16:15:22.596]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_018' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:15:22.597]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:15:22.607]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_019' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:15:22.607]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[DEBUG][37m[2025-03-13 16:15:23.200]: 点击：搜索商品，并输入值：超级无敌大草莓 base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:15:23.602]: 点击元素:搜索 base.py -> sel_click line:94[0m
+[INFO][32m[2025-03-13 16:15:23.606]: 获取到弹窗文本为：您的查询结果为空，为您推荐以下商品 base.py -> alert_text line:63[0m
+[INFO][32m[2025-03-13 16:15:23.614]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_019' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:15:23.614]: execute time-consuming:1.01 second conftest.py -> pytest_runtest_makereport line:101[0m

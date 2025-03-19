@@ -1,0 +1,5 @@
+[35mDEBUG   [0m log_name:base.py:94 点击元素:登录
+[35mDEBUG   [0m log_name:base.py:151 点击：请输入用户名，并输入值：test1234567
+[35mDEBUG   [0m log_name:base.py:151 点击：请输入密码，并输入值：mimacuowu
+[35mDEBUG   [0m log_name:base.py:94 点击元素:登录
+[35mDEBUG   [0m log_name:base.py:164 密码错误

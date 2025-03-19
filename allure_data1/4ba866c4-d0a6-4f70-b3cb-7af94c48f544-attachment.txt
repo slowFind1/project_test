@@ -1,0 +1,14 @@
+[32mINFO    [0m log_name:sql.py:10 Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3
+[32mINFO    [0m log_name:sql.py:46 Execute sql : DELETE FROM df_order_orderdetailinfo
+[35mDEBUG   [0m log_name:sql.py:49 []
+[32mINFO    [0m log_name:sql.py:46 Execute sql : DELETE FROM df_order_orderinfo
+[35mDEBUG   [0m log_name:sql.py:49 []
+[32mINFO    [0m log_name:sql.py:46 Execute sql : DELETE FROM df_user_userinfo
+[35mDEBUG   [0m log_name:sql.py:49 []
+[32mINFO    [0m log_name:sql.py:46 Execute sql : DELETE FROM df_cart_cartinfo
+[35mDEBUG   [0m log_name:sql.py:49 []
+[32mINFO    [0m log_name:sql.py:46 Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '')
+[35mDEBUG   [0m log_name:sql.py:49 []
+[32mINFO    [0m log_name:sql.py:26 Disconnected to database
+[35mDEBUG   [0m log_name:base.py:94 点击元素:去结算
+[32mINFO    [0m log_name:base.py:63 获取到弹窗文本为：请填写正确的收货地址

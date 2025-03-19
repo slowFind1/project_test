@@ -1,0 +1,13 @@
+[INFO][32m[2025-03-13 16:37:15.165]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_025' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:37:15.165]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:37:15.171]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_026' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:37:15.172]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[DEBUG][37m[2025-03-13 16:37:15.657]: 点击元素:用户中心 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:37:16.016]: 点击元素:收货地址 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:37:18.733]: 点击元素:修改地址 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:37:20.182]: 点击元素:我的购物车 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:37:20.557]: 点击元素:去结算 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:37:20.882]: 点击元素:提交订单 base.py -> sel_click line:94[0m
+[INFO][32m[2025-03-13 16:37:20.888]: 获取到弹窗文本为：订单提交失败 base.py -> alert_text line:63[0m
+[INFO][32m[2025-03-13 16:37:20.893]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_026' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:37:20.895]: execute time-consuming:5.72 second conftest.py -> pytest_runtest_makereport line:101[0m

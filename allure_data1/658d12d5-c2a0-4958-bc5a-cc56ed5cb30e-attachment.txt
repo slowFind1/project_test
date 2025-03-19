@@ -1,0 +1,3 @@
+[35mDEBUG   [0m log_name:base.py:94 点击元素:注册
+[35mDEBUG   [0m log_name:base.py:94 点击元素:注册
+[35mDEBUG   [0m log_name:base.py:164 你输入的邮箱格式不正确

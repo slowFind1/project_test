@@ -1,0 +1,22 @@
+[INFO][32m[2025-03-13 16:14:57.305]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_015' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:14:57.305]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:14:57.327]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_016' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:14:57.328]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[DEBUG][37m[2025-03-13 16:14:57.816]: 点击元素:用户中心 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:14:58.202]: 点击元素:收货地址 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:15:00.939]: 点击元素:修改地址 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:15:02.705]: 点击元素:加入购物车 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:15:03.047]: 点击元素:加入购物车 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:15:03.842]: 点击元素:加入购物车 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:15:04.122]: 点击元素:加入购物车 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:15:04.933]: 点击元素:加入购物车 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:15:05.230]: 点击元素:加入购物车 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:15:06.051]: 点击元素:去结算 base.py -> sel_click line:94[0m
+[INFO][32m[2025-03-13 16:15:07.385]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10[0m
+[INFO][32m[2025-03-13 16:15:07.385]: Execute sql : select * from df_order_orderinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:15:07.388]: [('2025031316145540', '2025-03-13 16:14:55.772832', 0, 22, '', 40), ('2025031316150640', '2025-03-13 16:15:06.180198', 0, 131, '', 40)] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:15:07.388]: Disconnected to database sql.py -> __del__ line:26[0m
+[INFO][32m[2025-03-13 16:15:07.650]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_016' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:15:07.651]: execute time-consuming:10.06 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:15:07.651]: error screenshot. conftest.py -> pytest_runtest_makereport line:104[0m
+[DEBUG][37m[2025-03-13 16:15:08.813]: 已保存失败截图 base.py -> allure_save_screenshot line:200[0m

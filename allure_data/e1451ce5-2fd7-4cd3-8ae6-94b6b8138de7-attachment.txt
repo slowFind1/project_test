@@ -1,0 +1,10 @@
+[INFO][32m[2025-03-13 16:28:51.529]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_026' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:28:51.529]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:28:51.536]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_027' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:28:51.536]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[DEBUG][37m[2025-03-13 16:28:51.967]: 点击元素:用户中心 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:28:52.292]: 点击元素:收货地址 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:28:55.016]: 点击元素:修改地址 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:28:56.061]: 收件人：张三 base.py -> get_text line:164[0m
+[INFO][32m[2025-03-13 16:28:56.073]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_027' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:28:56.073]: execute time-consuming:4.54 second conftest.py -> pytest_runtest_makereport line:101[0m

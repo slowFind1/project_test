@@ -1,0 +1,45 @@
+[INFO][32m[2025-03-13 16:14:35.939]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_012' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:14:35.939]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:14:37.131]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10[0m
+[INFO][32m[2025-03-13 16:14:37.131]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:37.135]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:37.135]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:37.135]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:37.135]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:37.136]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:37.136]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:37.136]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:37.136]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:37.137]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:37.143]: Disconnected to database sql.py -> __del__ line:26[0m
+[DEBUG][37m[2025-03-13 16:14:37.609]: 点击元素:登录 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:14:38.208]: 点击：请输入用户名，并输入值：test1234567 base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:14:38.818]: 点击：请输入密码，并输入值：759667506 base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:14:39.224]: 点击元素:登录 base.py -> sel_click line:94[0m
+[INFO][32m[2025-03-13 16:14:39.228]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_013' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:14:39.229]: execute time-consuming:3.29 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:14:39.230]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10[0m
+[INFO][32m[2025-03-13 16:14:39.230]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:39.235]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:39.235]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:39.236]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:39.237]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:39.238]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:39.238]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:39.240]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:39.240]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:39.241]: [] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:39.245]: Disconnected to database sql.py -> __del__ line:26[0m
+[DEBUG][37m[2025-03-13 16:14:39.655]: 点击元素:用户中心 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:14:40.055]: 点击元素:收货地址 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:14:42.742]: 点击元素:修改地址 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:14:44.906]: 点击元素:去结算 base.py -> sel_click line:94[0m
+[INFO][32m[2025-03-13 16:14:46.237]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10[0m
+[INFO][32m[2025-03-13 16:14:46.238]: Execute sql : select * from df_order_orderinfo sql.py -> execute_sql line:46[0m
+[DEBUG][37m[2025-03-13 16:14:46.239]: [('2025031316144540', '2025-03-13 16:14:45.019607', 0, 22, '', 40)] sql.py -> execute_sql line:49[0m
+[INFO][32m[2025-03-13 16:14:46.240]: Disconnected to database sql.py -> __del__ line:26[0m
+[DEBUG][37m[2025-03-13 16:14:46.544]: 2025年3月13日
+订单号：2025031316144540
+已支付 base.py -> get_text line:164[0m
+[INFO][32m[2025-03-13 16:14:46.550]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_013' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:14:46.550]: execute time-consuming:7.32 second conftest.py -> pytest_runtest_makereport line:101[0m

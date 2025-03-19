@@ -1,0 +1,11 @@
+[INFO][32m[2025-03-13 16:35:37.388]: test report:<TestReport 'testcase/test_login.py::TestLogin::test_shopping_mall[test_shopping_mall_001]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:35:37.389]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:35:37.394]: test report:<TestReport 'testcase/test_login.py::TestLogin::test_shopping_mall[test_shopping_mall_002]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:35:37.395]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[DEBUG][37m[2025-03-13 16:35:37.752]: 点击元素:登录 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:35:38.342]: 点击：请输入用户名，并输入值：bucunzai base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:35:38.917]: 点击：请输入密码，并输入值：759667506 base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:35:39.196]: 点击元素:登录 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:35:39.234]: 用户名错误 base.py -> get_text line:164[0m
+[INFO][32m[2025-03-13 16:35:40.258]: test report:<TestReport 'testcase/test_login.py::TestLogin::test_shopping_mall[test_shopping_mall_002]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:35:40.258]: execute time-consuming:2.86 second conftest.py -> pytest_runtest_makereport line:101[0m

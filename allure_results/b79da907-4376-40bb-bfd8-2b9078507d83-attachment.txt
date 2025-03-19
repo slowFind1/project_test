@@ -1,0 +1,4 @@
+[35mDEBUG   [0m log_name:base.py:94 点击元素:加入购物车
+[35mDEBUG   [0m log_name:base.py:94 点击元素:加入购物车
+[35mDEBUG   [0m log_name:base.py:164 60.00
+[35mDEBUG   [0m log_name:base.py:164 48.00

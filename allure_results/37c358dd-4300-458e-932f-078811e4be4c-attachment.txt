@@ -1,0 +1,12 @@
+[INFO][32m[2025-03-13 16:15:28.467]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_023' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:15:28.467]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:15:28.470]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_024' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:15:28.470]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[DEBUG][37m[2025-03-13 16:15:29.203]: 点击元素:加入购物车 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:15:29.513]: 点击元素:加入购物车 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:15:30.308]: 60.00 base.py -> get_text line:164[0m
+[DEBUG][37m[2025-03-13 16:15:30.665]: 48.00 base.py -> get_text line:164[0m
+[INFO][32m[2025-03-13 16:15:30.691]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_024' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:15:30.692]: execute time-consuming:2.21 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:15:30.692]: error screenshot. conftest.py -> pytest_runtest_makereport line:104[0m
+[DEBUG][37m[2025-03-13 16:15:31.877]: 已保存失败截图 base.py -> allure_save_screenshot line:200[0m

@@ -1,0 +1,11 @@
+[INFO][32m[2025-03-13 16:35:40.266]: test report:<TestReport 'testcase/test_login.py::TestLogin::test_shopping_mall[test_shopping_mall_002]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:35:40.266]: execute time-consuming:0.01 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:35:40.273]: test report:<TestReport 'testcase/test_login.py::TestLogin::test_shopping_mall[test_shopping_mall_003]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:35:40.273]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[DEBUG][37m[2025-03-13 16:35:40.662]: 点击元素:登录 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:35:41.251]: 点击：请输入用户名，并输入值：test1234567 base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:35:41.861]: 点击：请输入密码，并输入值：mimacuowu base.py -> send_keys line:151[0m
+[DEBUG][37m[2025-03-13 16:35:42.193]: 点击元素:登录 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:35:42.228]: 密码错误 base.py -> get_text line:164[0m
+[INFO][32m[2025-03-13 16:35:43.248]: test report:<TestReport 'testcase/test_login.py::TestLogin::test_shopping_mall[test_shopping_mall_003]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:35:43.248]: execute time-consuming:2.97 second conftest.py -> pytest_runtest_makereport line:101[0m

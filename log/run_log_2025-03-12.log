@@ -1,0 +1,1067 @@
+[INFO][2025-03-12 11:41:25.598]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 11:41:25.599]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:41:25.606]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:41:25.607]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:41:25.607]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:41:25.608]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:41:25.613]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 11:44:31.273]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 11:44:31.274]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:44:31.276]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:44:31.276]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:44:31.277]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:44:31.277]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:44:31.279]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 11:48:08.027]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 11:48:08.028]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:48:08.031]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:48:08.032]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:48:08.032]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:48:08.033]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 11:48:08.034]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 11:48:08.233]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'登录')]"),异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:31
+[ERROR][2025-03-12 11:48:08.233]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:32
+[ERROR][2025-03-12 11:48:08.451]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'登录')]"),异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:31
+[ERROR][2025-03-12 11:48:08.451]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:32
+[ERROR][2025-03-12 11:48:08.532]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'登录')]"),异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:31
+[ERROR][2025-03-12 11:48:08.532]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:32
+[INFO][2025-03-12 12:20:24.462]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 12:20:24.463]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:20:24.467]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:20:24.467]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:20:24.468]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:20:24.468]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:20:24.472]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 12:20:24.690]: 登录失败,异常为sel_click() missing 1 required positional argument: 'value' event.py -> event_login line:32
+[ERROR][2025-03-12 12:20:24.991]: 登录失败,异常为sel_click() missing 1 required positional argument: 'value' event.py -> event_login line:32
+[ERROR][2025-03-12 12:20:25.061]: 登录失败,异常为sel_click() missing 1 required positional argument: 'value' event.py -> event_login line:32
+[INFO][2025-03-12 12:21:21.119]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 12:21:21.120]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:21:21.122]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:21:21.122]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:21:21.123]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:21:21.123]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:21:21.125]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 12:21:21.355]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'登录')]"),异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:31
+[ERROR][2025-03-12 12:21:21.356]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:32
+[ERROR][2025-03-12 12:21:21.560]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'登录')]"),异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:31
+[ERROR][2025-03-12 12:21:21.560]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:32
+[ERROR][2025-03-12 12:21:21.641]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'登录')]"),异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:31
+[ERROR][2025-03-12 12:21:21.642]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:32
+[INFO][2025-03-12 12:27:40.633]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 12:27:40.633]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:27:40.635]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:27:40.636]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:27:40.636]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:27:40.637]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 12:27:40.641]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 12:27:40.839]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'登录')]"),异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:31
+[ERROR][2025-03-12 12:27:40.840]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:32
+[ERROR][2025-03-12 12:27:41.051]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'登录')]"),异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:31
+[ERROR][2025-03-12 12:27:41.051]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:32
+[ERROR][2025-03-12 12:27:41.124]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'登录')]"),异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:31
+[ERROR][2025-03-12 12:27:41.126]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:32
+[INFO][2025-03-12 14:53:07.150]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 14:53:07.150]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:53:07.152]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:53:07.153]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:53:07.153]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:53:07.154]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:53:07.156]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 14:53:07.360]: 登录失败,异常为sel_click() missing 1 required positional argument: 'selector' event.py -> event_login line:30
+[ERROR][2025-03-12 14:53:07.570]: 登录失败,异常为sel_click() missing 1 required positional argument: 'selector' event.py -> event_login line:30
+[ERROR][2025-03-12 14:53:07.643]: 登录失败,异常为sel_click() missing 1 required positional argument: 'selector' event.py -> event_login line:30
+[INFO][2025-03-12 14:54:51.614]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 14:54:51.615]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:54:51.617]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:54:51.618]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:54:51.618]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:54:51.619]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:54:51.620]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 14:54:51.822]: 元素定位失败,无法定位该元素：//a[contains(text(),'登录')],异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:32
+[ERROR][2025-03-12 14:54:51.822]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:30
+[ERROR][2025-03-12 14:54:52.026]: 元素定位失败,无法定位该元素：//a[contains(text(),'登录')],异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:32
+[ERROR][2025-03-12 14:54:52.026]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:30
+[ERROR][2025-03-12 14:54:52.098]: 元素定位失败,无法定位该元素：//a[contains(text(),'登录')],异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:32
+[ERROR][2025-03-12 14:54:52.098]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:30
+[INFO][2025-03-12 14:58:46.211]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 14:58:46.212]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:58:46.213]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:58:46.215]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:58:46.216]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:58:46.216]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 14:58:46.219]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 14:58:46.278]: 元素定位失败,无法定位该元素：//a[contains(text(),'登录')],异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:32
+[ERROR][2025-03-12 14:58:46.278]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:30
+[ERROR][2025-03-12 14:58:46.493]: 元素定位失败,无法定位该元素：//a[contains(text(),'登录')],异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:32
+[ERROR][2025-03-12 14:58:46.493]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:30
+[ERROR][2025-03-12 14:58:46.562]: 元素定位失败,无法定位该元素：//a[contains(text(),'登录')],异常为：
+'HomePage' object has no attribute 'find_element' selenium_common.py -> sel_click line:32
+[ERROR][2025-03-12 14:58:46.562]: 登录失败,异常为'HomePage' object has no attribute 'find_element' event.py -> event_login line:30
+[INFO][2025-03-12 15:09:45.214]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 15:09:45.215]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:09:45.218]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:09:45.218]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:09:45.219]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:09:45.219]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:09:45.225]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 15:36:32.866]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 15:36:32.867]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:36:32.869]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:36:32.870]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:36:32.870]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:36:32.870]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:36:35.186]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 15:37:17.628]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 15:37:17.628]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:37:17.632]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:37:17.633]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:37:17.633]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:37:17.633]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[ERROR][2025-03-12 15:37:17.968]: 已超出超时30秒，无法定位该元素【test12345678】,异常为：
+Message: invalid argument: 'using' must be a string
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5BF51A]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ selenium_common.py -> send_keys line:79
+[INFO][2025-03-12 15:37:20.304]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 15:37:56.596]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 15:37:56.597]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:37:56.598]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:37:56.599]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:37:56.599]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:37:56.600]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:37:56.603]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 15:38:22.169]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 15:38:22.170]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:38:22.172]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:38:22.172]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:38:22.173]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:38:22.173]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[ERROR][2025-03-12 15:38:22.501]: 已超出超时30秒，无法定位该元素【test12345678】,异常为：
+Message: invalid argument: 'using' must be a string
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5BF51A]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ selenium_common.py -> send_keys line:79
+[INFO][2025-03-12 15:38:24.878]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 15:41:14.954]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 15:41:14.954]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:41:14.957]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:41:14.958]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:41:14.958]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:41:14.958]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[ERROR][2025-03-12 15:41:15.529]: 已超出超时30秒，无法定位该元素【('xpath', "//input[@id='user_name']")】,异常为：
+find_element() takes from 1 to 3 positional arguments but 13 were given selenium_common.py -> send_keys line:79
+[INFO][2025-03-12 15:41:17.839]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 15:45:41.506]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 15:45:41.507]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:45:41.510]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:45:41.511]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:45:41.511]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:45:41.512]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:45:41.513]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 15:45:44.591]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 15:45:44.591]: Execute sql : select * from df_user_userinfo where uname ="test12345678" sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:45:44.594]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 15:45:46.557]: 已超出超时//div[@class='login_btn fl']秒，无法定位该元素【xpath】,异常为：
+could not convert string to float: "//div[@class='login_btn fl']" base.py -> get_text line:157
+[INFO][2025-03-12 15:46:43.027]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 15:46:43.027]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:46:43.030]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:46:43.030]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:46:43.031]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:46:43.031]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:46:43.034]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 15:46:46.124]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 15:46:46.125]: Execute sql : select * from df_user_userinfo where uname ="test12345678" sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:46:46.126]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 15:58:58.732]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 15:58:58.733]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:58:58.736]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:58:58.736]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:58:58.737]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:58:58.737]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:58:58.739]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 15:59:46.822]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 15:59:46.823]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:59:46.826]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:59:46.827]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:59:46.827]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:59:46.828]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:59:46.831]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 15:59:49.911]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 15:59:49.912]: Execute sql : select * from df_user_userinfo where uname ="test12345678" sql.py -> execute_sql line:46
+[INFO][2025-03-12 15:59:49.914]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 16:00:35.737]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 16:00:35.738]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 16:00:35.741]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 16:00:35.741]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 16:00:35.742]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 16:00:35.742]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 16:00:35.746]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 16:00:38.929]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 16:00:38.929]: Execute sql : select * from df_user_userinfo where uname ="test12345678" sql.py -> execute_sql line:46
+[INFO][2025-03-12 16:00:38.930]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 19:27:32.614]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 19:27:32.614]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 19:27:32.616]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 19:27:32.617]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 19:27:32.617]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 19:27:32.618]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 19:27:32.619]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 20:24:31.256]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 20:24:31.257]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:24:31.259]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:24:31.259]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:24:31.260]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:24:31.260]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:24:31.262]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 20:24:34.227]: 获取到弹窗文本为：您的查询结果为空，为您推荐以下商品 base.py -> alert_text line:63
+[INFO][2025-03-12 20:25:40.006]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 20:25:40.006]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:25:40.008]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:25:40.009]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:25:40.009]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:25:40.010]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:25:40.013]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 20:25:42.904]: 获取到弹窗文本为：请输入搜索内容 base.py -> alert_text line:63
+[INFO][2025-03-12 20:25:56.177]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 20:25:56.178]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:25:56.180]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:25:56.180]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:25:56.181]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:25:56.181]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:25:56.184]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 20:25:57.187]: 获取到弹窗文本为：请输入搜索内容 base.py -> alert_text line:63
+[INFO][2025-03-12 20:28:42.132]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 20:28:42.133]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:28:42.138]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:28:42.139]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:28:42.139]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:28:42.139]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:28:42.143]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 20:31:56.101]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 20:31:56.102]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:31:56.107]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:31:56.107]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:31:56.108]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:31:56.108]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:31:56.111]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 20:32:05.853]: 已超出超时10秒，无法定位该元素【('xpath', "//li[contains(text(),'牛奶草莓')]")】,异常为：
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5555D1]
+	(No symbol) [0x00007FF76D55553C]
+	(No symbol) [0x00007FF76D553C95]
+	(No symbol) [0x00007FF76D5549BF]
+	(No symbol) [0x00007FF76D56E5D1]
+	(No symbol) [0x00007FF76D56F0CA]
+	(No symbol) [0x00007FF76D5738FC]
+	(No symbol) [0x00007FF76D5739CF]
+	(No symbol) [0x00007FF76D5BF000]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> get_text line:157
+[INFO][2025-03-12 20:33:01.469]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 20:33:01.470]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:33:01.472]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:33:01.472]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:33:01.473]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:33:01.473]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:33:01.477]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 20:33:12.333]: 已超出超时10秒，无法定位该元素【('xpath', "//li[contains(text(),'牛奶草莓')]")】,异常为：
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5555D1]
+	(No symbol) [0x00007FF76D55553C]
+	(No symbol) [0x00007FF76D553C95]
+	(No symbol) [0x00007FF76D5549BF]
+	(No symbol) [0x00007FF76D56E5D1]
+	(No symbol) [0x00007FF76D56F0CA]
+	(No symbol) [0x00007FF76D5738FC]
+	(No symbol) [0x00007FF76D5739CF]
+	(No symbol) [0x00007FF76D5BF000]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> get_text line:157
+[INFO][2025-03-12 20:33:39.805]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 20:33:39.805]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:33:39.807]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:33:39.808]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:33:39.809]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:33:39.809]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:33:39.815]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 20:33:48.140]: 已超出超时10秒，无法定位该元素【('xpath', "//li[contains(text(),'牛奶草莓')]")】,异常为：
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5555D1]
+	(No symbol) [0x00007FF76D55553C]
+	(No symbol) [0x00007FF76D553C95]
+	(No symbol) [0x00007FF76D5549BF]
+	(No symbol) [0x00007FF76D56E5D1]
+	(No symbol) [0x00007FF76D56F0CA]
+	(No symbol) [0x00007FF76D5738FC]
+	(No symbol) [0x00007FF76D5739CF]
+	(No symbol) [0x00007FF76D5BF000]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> get_text line:157
+[INFO][2025-03-12 20:35:13.998]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 20:35:13.998]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:35:14.001]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:35:14.001]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:35:14.002]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:35:14.002]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:35:14.005]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 20:35:16.387]: 元素定位失败,无法定位该元素：('xpath', "(//a[@id='add_cart']"),异常为：
+Message: invalid selector: Unable to locate an element with the xpath expression (//a[@id='add_cart'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '(//a[@id='add_cart']' is not a valid XPath expression.
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D570B2C]
+	(No symbol) [0x00007FF76D5738FC]
+	(No symbol) [0x00007FF76D5739CF]
+	(No symbol) [0x00007FF76D5BF000]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> sel_click line:98
+[INFO][2025-03-12 20:35:53.579]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 20:35:53.580]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:35:53.584]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:35:53.586]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:35:53.587]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:35:53.588]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:35:53.591]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 20:36:02.189]: 已超出超时10秒，无法定位该元素【('xpath', "//li[contains(text(),'牛奶草莓')]")】,异常为：
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D541763]
+	(No symbol) [0x00007FF76D5EF5EE]
+	(No symbol) [0x00007FF76D60F975]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> get_text line:157
+[INFO][2025-03-12 20:41:59.478]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 20:41:59.479]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:41:59.482]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:41:59.483]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:41:59.483]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:41:59.484]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:41:59.485]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 20:42:10.428]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'+')]"),异常为：
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5555D1]
+	(No symbol) [0x00007FF76D55553C]
+	(No symbol) [0x00007FF76D553C95]
+	(No symbol) [0x00007FF76D5549BF]
+	(No symbol) [0x00007FF76D56E5D1]
+	(No symbol) [0x00007FF76D56F0CA]
+	(No symbol) [0x00007FF76D5738FC]
+	(No symbol) [0x00007FF76D5739CF]
+	(No symbol) [0x00007FF76D5BF000]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> sel_click line:98
+[INFO][2025-03-12 20:43:24.235]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 20:43:24.236]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:43:24.238]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:43:24.239]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:43:24.240]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:43:24.240]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:43:24.242]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 20:43:43.800]: 元素定位失败,无法定位该元素：('id', 'add_cart]'),异常为：
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5555D1]
+	(No symbol) [0x00007FF76D55553C]
+	(No symbol) [0x00007FF76D553C95]
+	(No symbol) [0x00007FF76D5549BF]
+	(No symbol) [0x00007FF76D56E5D1]
+	(No symbol) [0x00007FF76D56F0CA]
+	(No symbol) [0x00007FF76D5738FC]
+	(No symbol) [0x00007FF76D5739CF]
+	(No symbol) [0x00007FF76D5BF000]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> sel_click line:98
+[INFO][2025-03-12 20:59:35.660]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 20:59:35.663]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:59:35.665]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:59:35.666]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:59:35.666]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:59:35.667]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 20:59:35.672]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 20:59:50.166]: 已超出超时30秒，无法定位该元素【('xpath', "//input[@name='uaddress']")】,异常为：
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5555D1]
+	(No symbol) [0x00007FF76D55553C]
+	(No symbol) [0x00007FF76D553C95]
+	(No symbol) [0x00007FF76D5549BF]
+	(No symbol) [0x00007FF76D56E5D1]
+	(No symbol) [0x00007FF76D56F0CA]
+	(No symbol) [0x00007FF76D5738FC]
+	(No symbol) [0x00007FF76D5739CF]
+	(No symbol) [0x00007FF76D5BF000]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> send_keys line:137
+[INFO][2025-03-12 21:00:42.345]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:00:42.345]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:00:42.348]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:00:42.348]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:00:42.349]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:00:42.350]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:00:42.352]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 21:01:10.117]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'加入购物车')]"),异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5BF747]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> sel_click line:98
+[INFO][2025-03-12 21:01:30.386]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:01:30.386]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:01:30.391]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:01:30.392]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:01:30.392]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:01:30.393]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:01:30.395]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 21:01:38.090]: 获取到弹窗文本为：订单提交失败 base.py -> alert_text line:63
+[INFO][2025-03-12 21:13:07.368]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:13:07.370]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:13:07.372]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:13:07.372]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:13:07.372]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:13:07.373]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:13:07.375]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 21:13:12.884]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'删除')]"),异常为：
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5555D1]
+	(No symbol) [0x00007FF76D55553C]
+	(No symbol) [0x00007FF76D553C95]
+	(No symbol) [0x00007FF76D5549BF]
+	(No symbol) [0x00007FF76D56E5D1]
+	(No symbol) [0x00007FF76D56F0CA]
+	(No symbol) [0x00007FF76D5738FC]
+	(No symbol) [0x00007FF76D5739CF]
+	(No symbol) [0x00007FF76D5BF000]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> sel_click line:98
+[INFO][2025-03-12 21:20:53.249]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:20:53.251]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:20:53.253]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:20:53.254]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:20:53.254]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:20:53.254]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:20:53.257]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 21:21:10.361]: 已超出超时10秒，无法定位该元素【('xpath', "//dt[contains(text(),'收件人：test1234567')]")】,异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5BF747]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> get_text line:157
+[INFO][2025-03-12 21:21:58.550]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:21:58.552]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:21:58.554]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:21:58.554]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:21:58.555]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:21:58.555]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:21:58.557]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 21:22:15.270]: 已超出超时10秒，无法定位该元素【('xpath', "(//dt[contains(text(),'收件人：张三')])[1]")】,异常为：
+Message: 
+ base.py -> get_text line:157
+[INFO][2025-03-12 21:23:34.916]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:23:34.917]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:23:34.920]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:23:34.921]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:23:34.922]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:23:34.922]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:23:34.924]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 21:25:55.547]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:25:55.548]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:25:55.626]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:25:55.627]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:25:55.628]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:25:55.628]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:25:55.633]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 21:26:03.289]: 获取到弹窗文本为：订单提交失败 base.py -> alert_text line:63
+[INFO][2025-03-12 21:26:30.034]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:26:30.035]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:26:30.037]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:26:30.038]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:26:30.038]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:26:30.040]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:26:30.043]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 21:26:38.384]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'删除')]"),异常为：
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5555D1]
+	(No symbol) [0x00007FF76D55553C]
+	(No symbol) [0x00007FF76D553C95]
+	(No symbol) [0x00007FF76D5549BF]
+	(No symbol) [0x00007FF76D56E5D1]
+	(No symbol) [0x00007FF76D56F0CA]
+	(No symbol) [0x00007FF76D5738FC]
+	(No symbol) [0x00007FF76D5739CF]
+	(No symbol) [0x00007FF76D5BF000]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> sel_click line:98
+[INFO][2025-03-12 21:34:22.140]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:34:22.141]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:34:22.144]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:34:22.144]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:34:22.145]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:34:22.145]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:34:22.150]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 21:34:35.124]: 元素定位失败,无法定位该元素：('xpath', "//a[contains(text(),'删除')]"),异常为：
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5555D1]
+	(No symbol) [0x00007FF76D55553C]
+	(No symbol) [0x00007FF76D553C95]
+	(No symbol) [0x00007FF76D5549BF]
+	(No symbol) [0x00007FF76D56E5D1]
+	(No symbol) [0x00007FF76D56F0CA]
+	(No symbol) [0x00007FF76D5738FC]
+	(No symbol) [0x00007FF76D5739CF]
+	(No symbol) [0x00007FF76D5BF000]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> sel_click line:98
+[INFO][2025-03-12 21:35:06.657]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:35:06.658]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:35:06.661]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:35:06.661]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:35:06.662]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:35:06.662]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:35:06.667]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 21:39:43.980]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:39:43.981]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:39:43.983]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:39:43.984]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:39:43.984]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:39:43.985]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:39:43.986]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 21:43:03.594]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:43:03.595]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:43:03.598]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:43:03.600]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:43:03.600]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:43:03.600]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:43:03.604]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 21:43:11.963]: 打开网页失败，异常为：
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D554FB5]
+	(No symbol) [0x00007FF76D579CD4]
+	(No symbol) [0x00007FF76D5EF78F]
+	(No symbol) [0x00007FF76D60F975]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> get line:44
+[INFO][2025-03-12 21:44:01.822]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:44:01.822]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:44:01.824]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:44:01.824]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:44:01.825]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:44:01.825]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:44:01.829]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 21:48:12.772]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:48:12.773]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:48:12.774]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:48:12.775]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:48:12.775]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:48:12.776]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:48:12.777]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 21:51:11.868]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:51:11.869]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:51:11.871]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:51:11.872]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:51:11.873]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:51:11.873]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:51:11.876]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 21:54:06.663]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:54:06.664]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:54:06.667]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:54:06.667]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:54:06.668]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:54:06.668]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:54:06.671]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 21:54:44.422]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:54:44.423]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:54:44.426]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:54:44.426]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:54:44.427]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:54:44.428]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:54:44.431]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 21:59:28.089]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 21:59:28.090]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:59:28.092]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:59:28.093]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:59:28.094]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:59:28.094]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 21:59:28.097]: Disconnected to database sql.py -> __del__ line:26
+[WARNING][2025-03-12 21:59:34.672]: 元素【('xpath', "(//li[contains(text(),'牛奶草莓')])[1]")】在 30 秒内不可见，可能已删除 base.py -> element_visible line:137
+[INFO][2025-03-12 22:02:24.872]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 22:02:24.874]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:02:24.876]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:02:24.876]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:02:24.877]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:02:24.877]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:02:24.881]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-12 22:02:32.495]: 获取到弹窗文本为：订单提交失败 base.py -> alert_text line:63
+[INFO][2025-03-12 22:04:01.884]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 22:04:01.884]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:04:01.886]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:04:01.886]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:04:01.887]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:04:01.887]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:04:01.889]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 22:04:18.513]: 已超出超时10秒，无法定位该元素【('xpath', "//input[@value='2']")】,异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5BF747]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> get_text line:175
+[INFO][2025-03-12 22:05:23.898]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 22:05:23.898]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:05:23.900]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:05:23.901]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:05:23.902]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:05:23.902]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:05:23.904]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 22:05:40.581]: 已超出超时10秒，无法定位该元素【('xpath', "//input[@value='2']")】,异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5BF747]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> get_text line:175
+[INFO][2025-03-12 22:06:44.915]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 22:06:44.915]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:06:44.917]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:06:44.918]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:06:44.918]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:06:44.919]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:06:44.923]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 22:07:01.547]: 已超出超时10秒，无法定位该元素【('xpath', "(//input[@value='5'])[1]")】,异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5BF747]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> get_text line:175
+[INFO][2025-03-12 22:11:31.818]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-12 22:11:31.819]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:11:31.821]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:11:31.821]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:11:31.822]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:11:31.823]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-12 22:11:31.825]: Disconnected to database sql.py -> __del__ line:26
+[ERROR][2025-03-12 22:11:48.366]: 已超出超时10秒，无法定位该元素【('xpath', "(//input[@value='5'])[1]")】,异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76D77DF85+26693]
+	(No symbol) [0x00007FF76D6DEAD0]
+	(No symbol) [0x00007FF76D5691CA]
+	(No symbol) [0x00007FF76D5BF747]
+	(No symbol) [0x00007FF76D5BF97C]
+	(No symbol) [0x00007FF76D6133C7]
+	(No symbol) [0x00007FF76D5E792F]
+	(No symbol) [0x00007FF76D6100B8]
+	(No symbol) [0x00007FF76D5E76C3]
+	(No symbol) [0x00007FF76D5B0490]
+	(No symbol) [0x00007FF76D5B1743]
+	GetHandleVerifier [0x00007FF76DAD436D+3525677]
+	GetHandleVerifier [0x00007FF76DAE7F3B+3606523]
+	GetHandleVerifier [0x00007FF76DADCEE3+3561379]
+	GetHandleVerifier [0x00007FF76D847C0A+853194]
+	(No symbol) [0x00007FF76D6E990F]
+	(No symbol) [0x00007FF76D6E5674]
+	(No symbol) [0x00007FF76D6E5816]
+	(No symbol) [0x00007FF76D6D4D89]
+	BaseThreadInitThunk [0x00007FFC86C826AD+29]
+	RtlUserThreadStart [0x00007FFC88C8A9F8+40]
+ base.py -> get_value line:192

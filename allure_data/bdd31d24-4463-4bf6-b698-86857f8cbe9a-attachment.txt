@@ -1,0 +1,24 @@
+[32mINFO    [0m log_name:sql.py:10 Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3
+[32mINFO    [0m log_name:sql.py:46 Execute sql : DELETE FROM df_order_orderdetailinfo
+[35mDEBUG   [0m log_name:sql.py:49 []
+[32mINFO    [0m log_name:sql.py:46 Execute sql : DELETE FROM df_order_orderinfo
+[35mDEBUG   [0m log_name:sql.py:49 []
+[32mINFO    [0m log_name:sql.py:46 Execute sql : DELETE FROM df_user_userinfo
+[35mDEBUG   [0m log_name:sql.py:49 []
+[32mINFO    [0m log_name:sql.py:46 Execute sql : DELETE FROM df_cart_cartinfo
+[35mDEBUG   [0m log_name:sql.py:49 []
+[32mINFO    [0m log_name:sql.py:46 Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test1234567@qq.com', '', '', '', '')
+[35mDEBUG   [0m log_name:sql.py:49 []
+[32mINFO    [0m log_name:sql.py:26 Disconnected to database
+[35mDEBUG   [0m log_name:base.py:94 点击元素:注册
+[35mDEBUG   [0m log_name:base.py:94 点击元素:注册
+[32mINFO    [0m log_name:sql.py:10 Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3
+[32mINFO    [0m log_name:sql.py:46 Execute sql : select * from df_user_userinfo where uname ="test_shopping_004"
+[35mDEBUG   [0m log_name:sql.py:49 [(83, 'test_shopping_004', 'c3babf29d9d8c6c1b77134356c39ac78501bc70f', 'test_shopping_004@qq.com', '', '', '', '')]
+[32mINFO    [0m log_name:sql.py:26 Disconnected to database
+[35mDEBUG   [0m log_name:base.py:94 点击元素:登录
+[35mDEBUG   [0m log_name:base.py:151 点击：请输入用户名，并输入值：test_shopping_004
+[35mDEBUG   [0m log_name:base.py:151 点击：请输入密码，并输入值：test_shopping_004
+[35mDEBUG   [0m log_name:base.py:94 点击元素:登录
+[35mDEBUG   [0m log_name:base.py:164 欢迎您：test_shopping_004 | 退出
+[35mDEBUG   [0m log_name:base.py:94 点击元素:退出

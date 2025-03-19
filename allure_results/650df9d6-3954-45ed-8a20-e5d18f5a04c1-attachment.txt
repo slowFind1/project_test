@@ -1,0 +1,11 @@
+[INFO][32m[2025-03-13 16:15:24.653]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_021' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:15:24.654]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:15:24.657]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_022' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:15:24.658]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[DEBUG][37m[2025-03-13 16:15:25.059]: 点击元素:加入购物车 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:15:25.365]: 点击元素:加入购物车 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:15:25.791]: 牛奶草莓
+12.00元/500g
+库存：293 base.py -> get_text line:164[0m
+[INFO][32m[2025-03-13 16:15:25.806]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_022' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:15:25.806]: execute time-consuming:1.15 second conftest.py -> pytest_runtest_makereport line:101[0m

@@ -1,0 +1,11 @@
+[INFO][32m[2025-03-13 16:28:43.910]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_024' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:28:43.910]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[INFO][32m[2025-03-13 16:28:43.918]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_025' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:28:43.918]: execute time-consuming:0.0 second conftest.py -> pytest_runtest_makereport line:101[0m
+[DEBUG][37m[2025-03-13 16:28:44.681]: 点击元素:加入购物车 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:28:44.974]: 点击元素:加入购物车 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:28:45.519]: 1 base.py -> get_text line:164[0m
+[DEBUG][37m[2025-03-13 16:28:45.841]: 点击元素:删除 base.py -> sel_click line:94[0m
+[DEBUG][37m[2025-03-13 16:28:45.891]: 0 base.py -> get_text line:164[0m
+[INFO][32m[2025-03-13 16:28:45.904]: test report:<TestReport 'testcase/test_register.py::TestRegister::test_shopping_mall_025' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:100[0m
+[INFO][32m[2025-03-13 16:28:45.904]: execute time-consuming:1.99 second conftest.py -> pytest_runtest_makereport line:101[0m

@@ -1,0 +1,3 @@
+[35mDEBUG   [0m log_name:base.py:151 点击：搜索商品，并输入值：超级无敌大草莓
+[35mDEBUG   [0m log_name:base.py:94 点击元素:搜索
+[32mINFO    [0m log_name:base.py:63 获取到弹窗文本为：您的查询结果为空，为您推荐以下商品

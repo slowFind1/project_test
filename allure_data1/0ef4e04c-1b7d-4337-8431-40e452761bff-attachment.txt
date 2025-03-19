@@ -1,0 +1,7 @@
+[35mDEBUG   [0m log_name:base.py:94 点击元素:用户中心
+[35mDEBUG   [0m log_name:base.py:94 点击元素:收货地址
+[35mDEBUG   [0m log_name:base.py:94 点击元素:修改地址
+[35mDEBUG   [0m log_name:base.py:164 收件人：张三
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:827 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002BF86554070>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/754289eb1fbcf25cbe6a110b41a9a41f
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:827 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002BF864E0220>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/754289eb1fbcf25cbe6a110b41a9a41f
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:827 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002BF863A9490>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/754289eb1fbcf25cbe6a110b41a9a41f

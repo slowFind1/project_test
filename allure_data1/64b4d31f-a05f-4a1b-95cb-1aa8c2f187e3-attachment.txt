@@ -1,0 +1,32 @@
+[35mDEBUG   [0m log_name:base.py:151 点击：搜索商品，并输入值：扇贝
+[35mDEBUG   [0m log_name:base.py:94 点击元素:搜索
+[35mDEBUG   [0m log_name:base.py:164 扇贝
+￥34.00 500g
+[35mDEBUG   [0m log_name:base.py:151 点击：搜索商品，并输入值：葡萄
+[35mDEBUG   [0m log_name:base.py:94 点击元素:搜索
+[35mDEBUG   [0m log_name:base.py:164 水晶葡萄
+￥20.00 500g
+[35mDEBUG   [0m log_name:base.py:151 点击：搜索商品，并输入值：刀鱼
+[35mDEBUG   [0m log_name:base.py:94 点击元素:搜索
+[35mDEBUG   [0m log_name:base.py:164 濒危刀鱼
+￥100.00 10g
+[35mDEBUG   [0m log_name:base.py:151 点击：搜索商品，并输入值：草莓
+[35mDEBUG   [0m log_name:base.py:94 点击元素:搜索
+[35mDEBUG   [0m log_name:base.py:164 大红草莓
+￥20.00 500g
+牛奶草莓
+￥12.00 500g
+新鲜草莓
+￥20.00 500g
+[35mDEBUG   [0m log_name:base.py:151 点击：搜索商品，并输入值：香蕉
+[35mDEBUG   [0m log_name:base.py:94 点击元素:搜索
+[35mDEBUG   [0m log_name:base.py:164 海南香蕉
+￥100.00 500g
+来自海南的香蕉
+￥89.00 500g
+香蕉大香蕉
+￥16.00 500g
+[35mDEBUG   [0m log_name:base.py:151 点击：搜索商品，并输入值：基围虾
+[35mDEBUG   [0m log_name:base.py:94 点击元素:搜索
+[35mDEBUG   [0m log_name:base.py:164 基围虾
+￥45.00 500g

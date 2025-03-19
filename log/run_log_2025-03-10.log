@@ -1,0 +1,286 @@
+[INFO][2025-03-10 19:37:41.209]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 19:37:41.209]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:37:41.219]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:37:41.221]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:37:41.221]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:37:41.222]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:37:41.620]: 点击元素:登录 selenium_common.py -> sel_click line:27
+[INFO][2025-03-10 19:37:42.197]: 点击：请输入用户名，并输入值：test1234567 selenium_common.py -> send_keys line:69
+[INFO][2025-03-10 19:37:42.754]: 点击：请输入密码，并输入值：759667506 selenium_common.py -> send_keys line:69
+[INFO][2025-03-10 19:37:43.193]: 点击元素:登录 selenium_common.py -> sel_click line:27
+[INFO][2025-03-10 19:37:44.702]: 点击元素:登录 selenium_common.py -> sel_click line:27
+[INFO][2025-03-10 19:37:45.231]: 点击：请输入用户名，并输入值：bucunzai selenium_common.py -> send_keys line:69
+[INFO][2025-03-10 19:37:45.818]: 点击：请输入密码，并输入值：759667506 selenium_common.py -> send_keys line:69
+[INFO][2025-03-10 19:37:46.098]: 点击元素:登录 selenium_common.py -> sel_click line:27
+[INFO][2025-03-10 19:37:47.525]: 点击元素:登录 selenium_common.py -> sel_click line:27
+[INFO][2025-03-10 19:37:48.056]: 点击：请输入用户名，并输入值：test1234567 selenium_common.py -> send_keys line:69
+[INFO][2025-03-10 19:37:48.616]: 点击：请输入密码，并输入值：mimacuowu selenium_common.py -> send_keys line:69
+[INFO][2025-03-10 19:37:48.895]: 点击元素:登录 selenium_common.py -> sel_click line:27
+[INFO][2025-03-10 19:37:52.137]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 19:44:52.447]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 19:44:52.447]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:44:52.463]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:44:52.465]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:44:52.466]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:44:52.466]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:45:03.610]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 19:53:38.145]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 19:53:38.146]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:53:38.152]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:53:38.152]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:53:38.152]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:53:38.154]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 19:53:49.381]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:02:35.843]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:02:35.843]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:02:35.845]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:02:35.846]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:02:35.846]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:02:35.846]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:02:42.910]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:11:49.951]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:11:49.952]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:11:49.957]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:11:49.958]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:11:49.958]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:11:49.959]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:11:52.785]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:11:52.785]: Execute sql : s sql.py -> execute_sql line:32
+[ERROR][2025-03-10 20:11:52.785]: Execute sql 异常 : near "s": syntax error sql.py -> execute_sql line:40
+[INFO][2025-03-10 20:11:55.171]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:14:25.372]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:14:25.373]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:14:25.379]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:14:25.380]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:14:25.381]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:14:25.381]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:14:28.241]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:14:28.241]: Execute sql : s sql.py -> execute_sql line:32
+[ERROR][2025-03-10 20:14:28.241]: Execute sql 异常 : near "s": syntax error sql.py -> execute_sql line:40
+[INFO][2025-03-10 20:14:30.568]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:14:55.736]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:14:55.736]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:14:55.739]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:14:55.740]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:14:55.740]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:14:55.741]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:14:58.681]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:14:58.682]: Execute sql : s sql.py -> execute_sql line:32
+[ERROR][2025-03-10 20:14:58.682]: Execute sql 异常 : near "s": syntax error sql.py -> execute_sql line:40
+[INFO][2025-03-10 20:15:00.990]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:15:52.241]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:15:52.241]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:15:52.245]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:15:52.245]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:15:52.245]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:15:52.246]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:15:55.235]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:15:55.236]: Execute sql : s sql.py -> execute_sql line:32
+[ERROR][2025-03-10 20:15:55.236]: Execute sql 异常 : near "s": syntax error sql.py -> execute_sql line:40
+[INFO][2025-03-10 20:15:57.566]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:16:45.107]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:16:45.107]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:16:45.108]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:16:45.110]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:16:45.110]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:16:45.111]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:16:48.059]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:16:48.059]: Execute sql : s sql.py -> execute_sql line:32
+[ERROR][2025-03-10 20:16:48.060]: Execute sql 异常 : near "s": syntax error sql.py -> execute_sql line:40
+[INFO][2025-03-10 20:16:50.366]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:21:19.779]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:21:19.781]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:21:19.783]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:21:19.784]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:21:19.784]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:21:19.785]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:21:22.734]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:21:22.734]: Execute sql : s sql.py -> execute_sql line:32
+[ERROR][2025-03-10 20:21:22.735]: Execute sql 异常 : near "s": syntax error sql.py -> execute_sql line:40
+[INFO][2025-03-10 20:21:25.060]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:24:06.069]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:24:06.070]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:24:06.072]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:24:06.073]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:24:06.073]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:24:06.073]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:24:09.012]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:24:09.012]: Execute sql : select * from df_user_userinfo where uname = 'test12345678' sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:24:09.020]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:24:14.213]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:28:27.256]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:28:27.256]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:28:27.258]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:28:27.259]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:28:27.259]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:28:27.259]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:28:30.349]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:28:30.350]: Execute sql : select * from df_user_userinfo where uname = 'test12345678' sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:28:30.352]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:28:32.639]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:51:32.753]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:51:32.754]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:51:32.757]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:51:32.758]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:51:32.758]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:51:32.758]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:51:35.729]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:51:35.729]: Execute sql : select * from df_user_userinfo where uname = 'test12345678' sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:51:35.731]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:51:38.046]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:52:01.176]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:52:01.177]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:52:01.179]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:52:01.180]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:52:01.180]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:52:01.180]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:52:04.086]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:52:04.087]: Execute sql : select * from df_user_userinfo where uname = 'test12345678' sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:52:04.089]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:52:11.428]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:55:26.020]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:55:26.021]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:34
+[INFO][2025-03-10 20:55:26.022]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:34
+[INFO][2025-03-10 20:55:26.023]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:34
+[INFO][2025-03-10 20:55:26.024]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:34
+[INFO][2025-03-10 20:55:26.024]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:34
+[INFO][2025-03-10 20:55:28.974]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:55:28.974]: Execute sql : select * from df_user_userinfo where uname = 'test12345678' sql.py -> execute_sql line:34
+[INFO][2025-03-10 20:55:28.975]: Disconnected to database  sql.py -> __del__ line:17
+[INFO][2025-03-10 20:55:31.270]: Disconnected to database  sql.py -> __del__ line:17
+[INFO][2025-03-10 20:57:21.588]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:57:21.588]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:57:21.590]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:57:21.590]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:57:21.591]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:57:21.591]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:57:24.569]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:57:24.569]: Execute sql : select * from df_user_userinfo where uname = 'test12345678' sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:57:24.570]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:57:26.871]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 20:59:43.644]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:59:43.644]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:59:43.647]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:59:43.647]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:59:43.648]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:59:43.648]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:59:46.682]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 20:59:46.682]: Execute sql : select * from df_user_userinfo where uname = 'test12345678' sql.py -> execute_sql line:32
+[INFO][2025-03-10 20:59:46.685]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:00:12.796]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:00:12.797]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:00:12.801]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:00:12.801]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:00:12.801]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:00:12.802]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:00:15.731]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:00:15.731]: Execute sql : select * from df_user_userinfo where uname = 'test12345678' sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:00:15.734]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:00:24.045]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:01:59.665]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:01:59.666]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:01:59.668]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:01:59.668]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:01:59.668]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:01:59.669]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:02:02.606]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:02:02.606]: Execute sql : select * from df_user_userinfo where uname = 'test12345678' sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:02:02.609]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:02:04.944]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:04:38.829]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:04:38.830]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:04:38.832]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:04:38.833]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:04:38.833]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:04:38.833]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:04:41.723]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:04:41.725]: Execute sql : select * from df_user_userinfo where uname = 'test12345678' sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:04:41.727]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:04:44.041]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:05:52.209]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:05:52.209]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:05:52.211]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:05:52.212]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:05:52.212]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:05:52.212]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:05:55.185]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:05:55.186]: Execute sql : select * from df_user_userinfo where uname = 'test12345678' sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:05:55.189]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:05:57.514]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:07:58.890]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:07:58.890]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:07:58.893]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:07:58.894]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:07:58.894]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:07:58.894]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:08:01.950]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:08:01.950]: Execute sql : select * from df_user_userinfo where uname = 'test12345678' sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:08:01.951]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:08:04.267]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:09:39.912]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:09:39.912]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:09:39.916]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:09:39.916]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:09:39.917]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:09:39.917]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:09:42.882]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:09:42.882]: Execute sql : select * from df_user_userinfo where uname ="test12345678" sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:09:42.884]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:09:45.185]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:11:41.681]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:11:41.681]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:11:41.684]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:11:41.685]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:11:41.685]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:11:41.686]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:11:44.609]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:11:44.610]: Execute sql : select * from df_user_userinfo where uname ="test12345678" sql.py -> execute_sql line:32
+[INFO][2025-03-10 21:11:44.612]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:11:51.853]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:17:58.027]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:17:58.028]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:17:58.029]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:17:58.031]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:17:58.031]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:17:58.031]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:18:00.952]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:18:00.952]: Execute sql : select * from df_user_userinfo where uname ="test12345678" sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:18:00.955]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:18:07.138]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:18:40.670]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:18:40.671]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:18:40.672]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:18:40.673]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:18:40.673]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:18:40.674]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:18:43.650]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:18:43.651]: Execute sql : select * from df_user_userinfo where uname ="test12345678" sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:18:43.653]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:18:48.847]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:19:59.392]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:19:59.392]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:19:59.395]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:19:59.395]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:19:59.396]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:19:59.396]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:20:02.516]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:20:02.516]: Execute sql : select * from df_user_userinfo where uname ="test12345678" sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:20:02.519]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:20:07.871]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:29:42.105]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:29:42.106]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:29:42.108]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:29:42.109]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:29:42.109]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:29:42.110]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:29:45.041]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:29:45.041]: Execute sql : select * from df_user_userinfo where uname ="test12345678" sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:29:45.042]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:29:50.252]: Disconnected to database sql.py -> __del__ line:26
+[INFO][2025-03-10 21:30:04.305]: Connected to database : E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3 sql.py -> __init__ line:10
+[INFO][2025-03-10 21:30:04.306]: Execute sql : DELETE FROM df_order_orderdetailinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:30:04.309]: Execute sql : DELETE FROM df_order_orderinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:30:04.309]: Execute sql : DELETE FROM df_user_userinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:30:04.309]: Execute sql : DELETE FROM df_cart_cartinfo sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:30:04.309]: Execute sql : INSERT INTO df_user_userinfo VALUES ('40', 'test1234567', '8af362b9b445502a4991a56a15fc0e954412ffef', 'test123456@qq.com', '', '', '', '') sql.py -> execute_sql line:46
+[INFO][2025-03-10 21:30:15.393]: Disconnected to database sql.py -> __del__ line:26
