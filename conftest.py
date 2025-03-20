@@ -9,8 +9,8 @@ from po.home_page import HomePage
 from settings import DBSql, Environment
 
 
-chrome_driver_path = "/usr/local/bin/chromedriver.exe"
-options = webdriver.ChromeOptions()
+# chrome_driver_path = "/usr/local/bin/chromedriver.exe"
+# options = webdriver.ChromeOptions()
 # 测试用例的代码基础配置，网页，测试日志设置等 ； test_case所设置conftest
 @pytest.fixture(scope="class")
 def login():

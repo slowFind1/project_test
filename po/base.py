@@ -12,8 +12,8 @@ from common.sql import  MysqlAuto
 from config.conf import  ALLURE_IMG_DIR
 from settings import DBSql, Environment
 
-chrome_driver_path = "/usr/local/bin/chromedriver.exe"
-options = webdriver.ChromeOptions()
+# chrome_driver_path = "/usr/local/bin/chromedriver.exe"
+# options = webdriver.ChromeOptions()
 class Base:
     def __init__(self,driver=None):
         ''''''
@@ -28,7 +28,7 @@ class Base:
         else:
             #那么进行首次打开网页
             #self.driver = webdriver.Firefox()  #需要对应版本的驱动
-            self.driver = webdriver.Chrome(executable_path=chrome_driver_path, options=options)
+            self.driver = webdriver.Chrome()
             #self.driver.get(Environment.url)
             self.driver.implicitly_wait(10) #隐式等待
             self.driver.maximize_window()
