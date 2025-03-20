@@ -12,7 +12,7 @@ from common.sql import  MysqlAuto
 from config.conf import  ALLURE_IMG_DIR
 from settings import DBSql, Environment
 
-
+chrome_driver_path = "/usr/local/bin/chromedriver"
 class Base:
     def __init__(self,driver=None):
         ''''''
