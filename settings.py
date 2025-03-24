@@ -18,7 +18,7 @@ class Environment:
 
 
 class DBSql:
-    sql_file = rf'E:\DOCUMENT\Web_ui\TIantian_html\daily_fresh_demo-master\db.sqlite3' #数据库文件,天天生鲜文件夹下，数据集文件
+    sql_file = rf'daily_fresh_demo-master\db.sqlite3' #数据库文件路径,天天生鲜文件夹下，数据集文件，根据不同的本地放置位置，记得修改
     # sql_list = [
     #     'DELETE FROM df_order_orderdetailinfo;',     #删除订单的详细信息
     #     'DELETE FROM df_order_orderinfo;',           #删除订单
