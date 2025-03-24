@@ -3,7 +3,7 @@ from time import sleep
 import pytest
 from  selenium import  webdriver
 from  selenium.webdriver.common.by import  By
-
+import  os
 class Environment:
 
     #被测试环境，网页 或者 andirons端
@@ -18,7 +18,8 @@ class Environment:
 
 
 class DBSql:
-    sql_file = rf'daily_fresh_demo-master\db.sqlite3' #数据库文件路径,天天生鲜文件夹下，数据集文件，根据不同的本地放置位置，记得修改
+    #sql_file = rf'daily_fresh_demo-master\db.sqlite3' #数据库文件路径,天天生鲜文件夹下，数据集文件，根据不同的本地放置位置，记得修改
+    sql_file =  sql_file = os.environ.get('SQLITE_DB_PATH', '/app/db.sqlite3')  # 从环境变量读取数据库路径 ;上传Jenkins，将本地路径数据库，挂载容器中
     # sql_list = [
     #     'DELETE FROM df_order_orderdetailinfo;',     #删除订单的详细信息
     #     'DELETE FROM df_order_orderinfo;',           #删除订单
