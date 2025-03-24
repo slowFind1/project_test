@@ -34,7 +34,7 @@ class Base:
 
             #self.driver = webdriver.Firefox()  #需要对应版本的驱动
             self.driver = webdriver.Chrome()
-            self.driver.get(Environment.url)
+            #self.driver.get(Environment.url) 不需要，其它代码调用时候会重新编写，返回首页
             self.driver.implicitly_wait(10) #隐式等待
             self.driver.maximize_window()
 
