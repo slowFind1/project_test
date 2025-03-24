@@ -27,13 +27,13 @@ class Base:
             self.driver = driver
         else:
             #那么进行首次打开网页options = webdriver.ChromeOptions()
-            options = webdriver.ChromeOptions()
-            options.add_argument("--user-data-dir=/tmp/chrome_profile")  # 指定新的用户数据目录
-            options.add_argument("--no-sandbox")  # 适用于 Docker 环境
-            options.add_argument("--disable-dev-shm-usage")  # 防止共享内存不足
+            # options = webdriver.ChromeOptions()
+            # options.add_argument("--user-data-dir=/tmp/chrome_profile")  # 指定新的用户数据目录
+            # options.add_argument("--no-sandbox")  # 适用于 Docker 环境
+            # options.add_argument("--disable-dev-shm-usage")  # 防止共享内存不足
 
             #self.driver = webdriver.Firefox()  #需要对应版本的驱动
-            self.driver = webdriver.Chrome(options=options)
+            self.driver = webdriver.Chrome()
 
             #self.driver.get(Environment.url)
             self.driver.implicitly_wait(10) #隐式等待
